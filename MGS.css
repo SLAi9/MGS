@@ -4,3 +4,7 @@ body{
 .game{
     background-color: #6b7d99;
 }
+.game img{
+    margin-left: 500px;
+    margin-right: 500px;
+}
