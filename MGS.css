@@ -9,6 +9,7 @@ body{
     border-radius: 7px;
     border: 15px;
     border-color: black;
+    margin: auto;
 }
 .game img{
     margin-left: 1000px;
