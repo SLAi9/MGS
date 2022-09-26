@@ -3,8 +3,10 @@ body{
 }
 .game{
     background-color: #6b7d99;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
 }
 .game img{
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 800px;
+    margin-right: 800px;
 }
